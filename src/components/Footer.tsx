@@ -9,10 +9,10 @@ const Footer = () => {
           <div>
             <div className="flex items-center mb-4">
               <Truck className="h-20 w-20 text-blue-400" />
-              <span className="ml-2 font-bold text-xl"> Contact EXPENGO – Cab Expense Tracker Software in India</span>
+              <span className="ml-2 font-bold text-xl"> Contact Route Budget – Route Budget Tracker Software in India</span>
             </div>
             <p className="text-gray-400 mb-6">
-              Reach out to EXPENGO, India’s top cab expense tracker software. Let us
+              Reach out to Route Budget, India’s top Route Budget tracker software. Let us
               help you reduce costs and improve fleet operations.</p>
             <p className="text-gray-400 mb-6">
               Need Help or a Demo?</p>
@@ -20,7 +20,7 @@ const Footer = () => {
               We’d love to hear from you! Whether you’re a travel business or an individual driver, our team is
               ready to assist.
             </p>
-            <div className="flex space-x-4">
+            {/* <div className="flex space-x-4">
               <a href="#" className="text-gray-400 hover:text-white transition-colors duration-200">
                 <Facebook size={20} />
               </a>
@@ -33,7 +33,7 @@ const Footer = () => {
               <a href="#" className="text-gray-400 hover:text-white transition-colors duration-200">
                 <Instagram size={20} />
               </a>
-            </div>
+            </div> */}
           </div>
 
           <div>
@@ -81,10 +81,10 @@ const Footer = () => {
               <li className="flex items-start">
                 <Mail size={20} className="text-gray-400 mr-2 mt-0.5 flex-shrink-0" />
                 <a
-                  href="mailto:info@cobaztech.com "
+                  href="https://webutsav.com/"
                   className="text-gray-400 hover:text-white transition-colors duration-200"
                 >
-                  info@cobaztech.com
+                  https://webutsav.com/
                 </a>
               </li>
               <li className="flex items-start">
@@ -100,12 +100,12 @@ const Footer = () => {
               <li className="flex items-start">
                 <Mail size={20} className="text-gray-400 mr-2 mt-0.5 flex-shrink-0" />
                 <a
-                  href="Website: www.expengo.in (Coming Soon) "
+                  href="Website: www.routebudget.com"
                   className="text-gray-400 hover:text-white transition-colors duration-200"
                 >
 
 
-                  www.expengo.in (Coming Soon)
+                  www.routebudget.com
 
                 </a>
               </li>
@@ -130,7 +130,7 @@ const Footer = () => {
         <div className="border-t border-gray-800 mt-12 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-sm">
-              &copy; {new Date().getFullYear()} cobaztech. All rights reserved.
+              &copy; {new Date().getFullYear()} webutsav. All rights reserved.
             </p>
             {/* <div className="mt-4 md:mt-0">
               <ul className="flex space-x-6">

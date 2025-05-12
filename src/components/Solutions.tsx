@@ -47,17 +47,17 @@ const Solutions = () => {
       <div className="relative container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center max-w-4xl mx-auto mb-20">
           <h2 className="text-5xl font-extrabold text-gray-900 mb-6 animate-fade-up">
-            EXPENGO – Complete Cab Expense Management Software in India
+            Route Budget – Complete Cab Expense Management Software in India
           </h2>
           <p className="text-lg text-gray-700 animate-fade-up delay-100">
-            Discover how EXPENGO provides end-to-end solutions for cab and travel
+            Discover how Route Budget provides end-to-end solutions for cab and travel
             businesses to reduce costs and streamline expense tracking in India.
           </p>
           <p className="mt-6 text-lg text-gray-900 font-bold animate-fade-up delay-200">
-            EXPENGO: The All-in-One Expense Management Solution
+            Route Budget: The All-in-One Expense Management Solution
           </p>
           <p className="mt-2 text-lg text-gray-700 animate-fade-up delay-300">
-            EXPENGO is not just software; it's your digital accountant optimized for India's unique transportation sector.
+            Route Budget is not just software; it's your digital accountant optimized for India's unique transportation sector.
           </p>
         </div>
 

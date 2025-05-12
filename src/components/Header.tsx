@@ -29,7 +29,7 @@ const Header = () => {
         <div className="flex justify-between items-center py-4">
           <div className="flex items-center">
             <Logo />
-            <span className={`ml-2 font-bold text-xl ${scrolled ? 'text-blue-900' : 'text-white'}`}>Expengo</span>
+            <span className={`ml-2 font-bold text-xl ${scrolled ? 'text-blue-900' : 'text-white'}`}>Route Budget</span>
           </div>
           
           <nav className="hidden md:flex space-x-8">

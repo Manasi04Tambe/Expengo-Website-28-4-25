@@ -5,7 +5,7 @@ const features = [
   {
     icon: <Fuel size={30} />,
     title: 'ERP-Based Multi-Admin System',
-    description: `EXPENGO is built on a powerful ERP foundation, offering:
+    description: `Route Budget is built on a powerful ERP foundation, offering:
 - Master Admin Panel to oversee company-wide data
 - Sub-Admin Access for team members or franchise locations
 - Access Control & Permissions to maintain data security
@@ -31,7 +31,7 @@ const features = [
   {
     icon: <BarChart3 size={30} />,
     title: 'Cloud-Based Access with Real-Time Sync',
-    description: `EXPENGO uses secure cloud storage:
+    description: `Route Budget uses secure cloud storage:
 - Auto-syncs data across devices (mobile, desktop)
 - Access your data anytime, anywhere`
   },
@@ -54,7 +54,7 @@ const features = [
   {
     icon: <Clock size={30} />,
     title: 'Mobile-Friendly Interface',
-    description: `Use EXPENGO on the go:
+    description: `Use Route Budget on the go:
 - Log entries via mobile camera
 - Get instant insights in your hand
 - No tech skills needed`
@@ -74,10 +74,10 @@ const Features = () => {
       <div className="relative container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center max-w-4xl mx-auto mb-20">
           <h2 className="text-5xl font-extrabold text-gray-900 mb-6 animate-fade-up">
-            Key Features of Cab Expense Tracker Software
+            Key Features of Route Budget Tracker Software
           </h2>
           <p className="text-lg text-gray-700 animate-fade-up delay-100">
-            Discover EXPENGO — India's smartest cab expense tracker for drivers, managers, and travel agencies.
+            Discover Route Budget — India's smartest Route Budget tracker for drivers, managers, and travel agencies.
           </p>
           <p className="mt-4 text-lg text-gray-700 animate-fade-up delay-200">
             Real-time tracking, full transparency, effortless management. Drive smarter today!

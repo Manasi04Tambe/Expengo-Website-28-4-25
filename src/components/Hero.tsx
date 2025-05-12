@@ -13,7 +13,7 @@ const Hero = () => {
               Simplify Your Fleet Expense Management
             </h1>
             <p className="text-lg md:text-xl mb-8 text-blue-100">
-              A complete solution to manage and track all your cab expenses including fuel payments, FastTag recharges, servicing costs, and more.
+              A complete solution to manage and track all your Route Budget including fuel payments, FastTag recharges, servicing costs, and more.
             </p>
             <div className="mt-8 flex items-center text-sm text-blue-100">
               <span className="mr-2">★★★★★</span>

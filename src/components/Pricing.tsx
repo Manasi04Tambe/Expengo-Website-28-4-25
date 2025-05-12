@@ -75,12 +75,12 @@ const Pricing = () => {
       <div className="relative container mx-auto px-4 sm:px-6 lg:px-8">
         {/* Title */}
         <div className="text-center max-w-3xl mx-auto mb-16 animate-fade-up">
-          <h2 className="text-4xl font-extrabold text-gray-900 mb-6">EXPENGO Pricing – Affordable Cab Expense Tracker Software Plans</h2>
+          <h2 className="text-4xl font-extrabold text-gray-900 mb-6">Route Budget Pricing – Affordable Tracker Software Plans</h2>
           <p className="text-lg text-gray-700">
             Explore flexible and budget-friendly plans tailored for every size fleet in India.
           </p>
           <p className="mt-2 text-lg text-gray-700">
-            Whether you're a solo driver or manage hundreds, EXPENGO has you covered.
+            Whether you're a solo driver or manage hundreds, Route Budget has you covered.
           </p>
         </div>
 

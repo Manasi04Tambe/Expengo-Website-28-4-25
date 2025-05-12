@@ -2,7 +2,7 @@ import React from 'react';
 
 const testimonials = [
   {
-    quote: `EXPENGO helped us reduce fuel and maintenance costs by nearly 20%. The reporting 
+    quote: `Route Budget helped us reduce fuel and maintenance costs by nearly 20%. The reporting 
 dashboard is a game- changer`,
     author: "Ravi",
     position: " Fleet Manager, Mumbai ",
@@ -16,7 +16,7 @@ stored in the app. Saved me hours every week.`,
     image: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
   },
   {
-    quote: `Managing multiple cabs with different drivers used to be chaotic. With EXPENGO, it's all in one 
+    quote: `Managing multiple cabs with different drivers used to be chaotic. With Route Budget, it's all in one 
 place. I get daily updates and alerts.`,
     author: "Amit",
     position: " Travel Agency Owner, Pune",
@@ -29,10 +29,10 @@ const Testimonials = () => {
     <section id="testimonials" className="py-20 bg-blue-900 text-white">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center max-w-3xl mx-auto mb-16">
-          <h2 className="text-3xl font-bold mb-4">What Our Users Say – EXPENGO Cab Expense Tracker Reviews</h2>
+          <h2 className="text-3xl font-bold mb-4">What Our Users Say – Route Budget Cab Expense Tracker Reviews</h2>
           <p className="text-xl text-blue-100">
             Hear from real users across India who’ve streamlined their operations using
-            EXPENGO, the leading cab expense tracker software.
+            Route Budget, the leading cab expense tracker software.
           </p>
         </div>
 

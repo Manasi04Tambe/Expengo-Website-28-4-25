@@ -46,7 +46,7 @@ const FAQ = () => {
         <div className="text-center max-w-3xl mx-auto mb-16 animate-fade-up">
           <h2 className="text-4xl font-extrabold text-gray-900 mb-4">Frequently Asked Questions </h2>
           <p className="text-lg text-gray-700">
-            Get answers to common questions about our cab expense management system.
+            Get answers to common questions about our Route Budget management system.
           </p>
         </div>
 
